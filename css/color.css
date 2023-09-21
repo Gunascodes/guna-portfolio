@@ -1,0 +1,29 @@
+.primary-bg{
+    background-color: #7843e9;
+}
+
+.primary-text-color{
+    color: #7843e9;
+}
+
+.section-bg {
+    background-color: #fafafa;
+}
+
+.gray-text{
+    color: #666;
+}
+
+.input-background {
+    background: #f0f0f0;
+}
+
+.footer-text {
+    color: #eee;
+}
+
+.btn-primary{
+    background-color: #7843e9 !important;
+    border: 1px solid #7843e9 !important;
+}
+
